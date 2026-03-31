@@ -20,8 +20,6 @@ int main(){
         loadQuiz(q,&n);
         runQuiz(q,n);
        
-       
-        //printTree(bt, 0);
         printf("\nNow explore career paths from 10th:\n");
         mnode *start;
         start=search(root,"10th");
