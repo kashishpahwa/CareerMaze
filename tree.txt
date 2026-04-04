@@ -85,62 +85,44 @@ Career|10th|12th|PCM|BTech|Computer Science|Game Developer
 Career|10th|12th|PCM|BTech|Computer Science|Blockchain Developer
 Career|10th|12th|PCM|BTech|Computer Science|DevOps Engineer
 Career|10th|12th|PCM|BTech|Computer Science|Machine Learning Engineer
-
 Career|10th|12th|PCM|BTech|Mechanical|Aerospace Engineer
 Career|10th|12th|PCM|BTech|Mechanical|CAD Designer
 Career|10th|12th|PCM|BTech|Mechanical|Quality Engineer
-
 Career|10th|12th|PCM|BTech|Civil|Urban Planner
 Career|10th|12th|PCM|BTech|Civil|Transportation Engineer
-
 Career|10th|12th|PCM|BTech|Electrical|Renewable Energy Engineer
 Career|10th|12th|PCM|BTech|Electrical|Power Systems Analyst
-
 Career|10th|12th|PCM|BSc|Physics|Research Scientist
 Career|10th|12th|PCM|BSc|Mathematics|Actuary
 Career|10th|12th|PCM|BSc|Statistics|Data Analyst
 Career|10th|12th|PCM|BSc|Computer Science|Software Tester
-
 Career|10th|12th|PCM|Defence|Army|Officer
 Career|10th|12th|PCM|Defence|Navy|Marine Engineer
 Career|10th|12th|PCM|Defence|Airforce|Pilot
-
 Career|10th|12th|PCB|MBBS|Cardiologist
 Career|10th|12th|PCB|MBBS|Neurologist
 Career|10th|12th|PCB|MBBS|Dermatologist
-
 Career|10th|12th|PCB|Pharmacy|Clinical Research
 Career|10th|12th|PCB|Pharmacy|Medical Representative
-
 Career|10th|12th|PCB|Nursing|ICU Nurse
 Career|10th|12th|PCB|Nursing|Community Health Nurse
-
 Career|10th|12th|Commerce|BCom|Auditor
 Career|10th|12th|Commerce|BCom|Investment Banker
-
 Career|10th|12th|Commerce|BBA|Business Analyst
 Career|10th|12th|Commerce|BBA|Startup Founder
-
 Career|10th|12th|Commerce|CA|Chartered Accountant Practice
 Career|10th|12th|Commerce|CS|Company Secretary Practice
-
 Career|10th|12th|Arts|BA|Civil Services
 Career|10th|12th|Arts|BA|Psychologist
-
 Career|10th|12th|Arts|Design|UI UX Designer
 Career|10th|12th|Arts|Design|Animator
-
 Career|10th|12th|Arts|Journalism|News Anchor
 Career|10th|12th|Arts|Journalism|Digital Media Manager
-
 Career|10th|12th|Arts|Law|Corporate Lawyer
 Career|10th|12th|Arts|Law|Criminal Lawyer
-
 Career|10th|Diploma|Engineering Diploma|Computer Diploma
 Career|10th|Diploma|Engineering Diploma|Automobile Diploma
-
 Career|10th|Diploma|ITI|Plumber
 Career|10th|Diploma|ITI|Technician
-
 Career|10th|Diploma|Polytechnic|Poly Mechanical
 Career|10th|Diploma|Polytechnic|Poly Electrical
