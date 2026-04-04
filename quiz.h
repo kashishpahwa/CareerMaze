@@ -1,66 +1,113 @@
-#ifndef QUIZ_H
-#define QUIZ_H
-#include<stdio.h>
-#include<string.h>
+#include <stdio.h>
+#include <string.h>
 #define MAX_Q 50
-struct que {
+
+struct que{
     char q[300];
     char opt[6][200];
 };
 typedef struct que Question;
 
-void loadQuiz(Question q[], int *n){
-    FILE *fp=fopen("quiz_10th.txt","r");
+//loading questions in array string 
+void loadQuiz(Question q[],int *n){
+    FILE *fp=fopen("quiz_10th.txt", "r");
+    if(!fp){
+        printf("Quiz file not found!\n");
+        *n=0;
+        return;
+    }
     *n=0;
-    while(fgets(q[*n].q,300,fp)){
-        for(int i=0;i<6;i++)
-            fgets(q[*n].opt[i],200,fp);
+    char line[300];
+    while(*n<MAX_Q){
+        int got=0;
+        while(fgets(line, sizeof(line),fp)){
+            line[strcspn(line,"\n")] = 0;
+            if(strlen(line)>2){ 
+                strncpy(q[*n].q, line, 299);
+                q[*n].q[299] = '\0';
+                got=1;
+                break;
+            }
+        }
+        if(!got){
+            break;   // no more questions 
+        }
+        int opts=0;
+        while(opts<6 && fgets(line,sizeof(line),fp)){
+            line[strcspn(line, "\n")] = 0;
+            if(strlen(line)>1){
+                strncpy(q[*n].opt[opts],line,199);
+                q[*n].opt[opts][199]='\0';
+                opts++;
+            }
+        }
+        if(opts<6){
+            break;  //incomplete question
+        }
         (*n)++;
     }
     fclose(fp);
 }
 
-int runQuiz(Question q[], int n){
-    int score[4]={0}; // PCM PCB COM ARTS
+//runQuiz
+int runQuiz(Question q[],int n){
+    int score[4] = {0};   //0=PCM  1=PCB  2=COM  3=ARTS 
     int ch;
     for(int i=0;i<n;i++){
-        printf("\n%s",q[i].q);
-        for(int j=0;j<6;j++){
-            printf("%d. %s",j+1,q[i].opt[j]);
+        printf("\nQ%d. %s\n",i+1,q[i].q);
+        for(int j = 0; j < 6; j++){
+            printf("  %d. %s\n", j+1,q[i].opt[j]);
         }
-
-        scanf("%d",&ch);
-
-        if(ch==1||ch==5){ 
+        printf("Your choice (1-6): ");
+        scanf("%d", &ch);
+        if(ch==1||ch==5){
             score[0]++;
-            
         }
-        else if(ch==3) {
+        else if(ch==3){
             score[1]++;
-            
         }
         else if(ch==2 || ch==6){
             score[2]++;
-            
         }
-        else 
-        {
-            score[3]++;
-            
+        else if(ch==4){
+        score[3]++;
+        }
+        else{
+            printf("invalid choice question skipped");
         }
     }
-
-    printf("\nField Priority:\nPCM:%d PCB:%d COM:%d ARTS:%d\n",
-           score[0],score[1],score[2],score[3]);
-
+    printf("\nField Priority\n");
+    printf("PCM: %d | PCB: %d | Commerce: %d | Arts: %d\n",score[0],score[1],score[2],score[3]);
     int max=0;
     for(int i=1;i<4;i++)
-        if(score[i]>score[max]){ 
+        if(score[i]>score[max]){
             max=i;
-            
         }
-
+    const char *labels[]={"PCM (Science Maths)", "PCB (Science Biology)","Commerce", "Arts"};
+    printf("Recommended stream: %s\n", labels[max]);
     return max;
 }
 
-#endif
+//updateQuiz  
+void updateQuiz(){
+    FILE *fp=fopen("quiz_10th.txt","a");
+    if(!fp){ 
+        printf("Cannot open quiz file!\n"); 
+        return; 
+    }
+    fprintf(fp, "\n");
+    char buf[300];
+    getchar();   
+    printf("Enter question:\n");
+    fgets(buf, sizeof(buf), stdin);
+    buf[strcspn(buf, "\n")]=0;
+    fprintf(fp, "%s\n", buf);
+    for(int i=0;i<6;i++){
+        printf("Option %d: ", i+1);
+        fgets(buf,sizeof(buf),stdin);
+        buf[strcspn(buf, "\n")] = 0;
+        fprintf(fp, "%s\n", buf);
+    }
+    fclose(fp);
+    printf("Question added successfully!\n");
+}
