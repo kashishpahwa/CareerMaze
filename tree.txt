@@ -31,7 +31,14 @@ Career|10th|12th|PCM|BTech|Biomedical Engineering|Medical Equipment Engineer
 Career|10th|12th|PCM|BTech|Biomedical Engineering|Clinical Engineer
 Career|10th|12th|PCM|BTech|Biomedical Engineering|Biomedical Research
 Career|10th|12th|PCM|BTech|Biomedical Engineering|Healthcare Technology
-Career|10th|12th|PCM|BTech|IP
+Career|10th|12th|PCM|BTech|Industrial Production|Production Engineer
+Career|10th|12th|PCM|BTech|Industrial Production|Quality Control Engineer
+Career|10th|12th|PCM|BTech|Industrial Production|Operations Manager
+Career|10th|12th|PCM|BTech|Industrial Production|Supply Chain Manager
+Career|10th|12th|PCM|BTech|Industrial Production|Manufacturing Engineer
+Career|10th|12th|PCM|BTech|Industrial Production|Plant Manager
+Career|10th|12th|PCM|BTech|Industrial Production|Process Engineer
+Career|10th|12th|PCM|BTech|Industrial Production|Industrial Engineer
 Career|10th|12th|PCM|BSc|Physics
 Career|10th|12th|PCM|BSc|Mathematics
 Career|10th|12th|PCM|BSc|Statistics
