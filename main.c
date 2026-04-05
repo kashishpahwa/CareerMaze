@@ -30,14 +30,16 @@ int main(){
             printf("Invalid credentials. Continuing as guest.\n");
         }
     }
-    while(choice!=-1){
+    while(choice!=-11){
         //main code
         printf("\nIf you are a 10th student, take a quiz to find your best field!\n");
         printf("1. 10th Student (Quiz)\n");
         printf("2. Explore Careers\n> ");
         if(loggedIn==1){
-            printf("  [-7] Add Admin  [-8] Delete Admin     [-11]EXIT\n");
+            printf("  [-7] Add Admin  [-8] Delete Admin ");
         }
+        printf(" [-11]EXIT\n");
+
         scanf("%d", &choice);
 
         mnode *root = loadTree();
