@@ -273,11 +273,11 @@ void navigate(mnode *start,mnode *root,int loggedIn,trie *users){
         printf("\n[0] Back  [-1] Undo delete  [-2] Search  [-3] Delete(session)  [-4] Add(session)");
         if(loggedIn){
             printf("  [-5] Delete(permanent)  [-6] Add(permanent)");
-            //printf("  [-7] Add Admin  [-8] Delete Admin");
+           
         }
         if(loggedIn && compareIgnoreCase(curr->data, "10th"))
             printf("  [-9] Add Quiz question ");
-        printf("  [-10] Print Path and exit  \n> ");
+        printf("  [-10] Print Path    [-11]EXIT  \n> ");
 
         scanf(" %d", &ch);
         //Print Path/Exit
