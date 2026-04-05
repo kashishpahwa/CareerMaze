@@ -15,7 +15,13 @@ Level 2:
   
 Level 3:
 
-Main Menu → 5 Options (Quiz, Explore, Add Admin, Delete Admin, Exit)
+Main Menu →
+5 Options 
+- Quiz
+- Explore
+- Add Admin(for admin)
+- Delete Admin(for admin)
+- Exit
 
 
 Level 4:
