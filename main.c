@@ -13,7 +13,7 @@ int main(){
     int choice;
 
     //login
-    printf("   Career Maze\n");
+    printf("=== Career Maze ===\n");
     printf("1. ADMIN Login\n2.Explore the career maze\n> ");//default name- admin password-1234
     scanf("%d", &choice);
 
