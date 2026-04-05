@@ -407,6 +407,3 @@ void navigate(mnode *start,mnode *root,int loggedIn,trie *users){
 
     }
 }
-
-
-mtree.h
