@@ -4,17 +4,28 @@ Career|10th|12th|PCM|BTech|Computer Science|AI Engineer
 Career|10th|12th|PCM|BTech|Computer Science|Cyber Security
 Career|10th|12th|PCM|BTech|Computer Science|Web Developer
 Career|10th|12th|PCM|BTech|Computer Science|App Developer
+Career|10th|12th|PCM|BTech|Computer Science|Game Developer
+Career|10th|12th|PCM|BTech|Computer Science|Blockchain Developer
+Career|10th|12th|PCM|BTech|Computer Science|DevOps Engineer
+Career|10th|12th|PCM|BTech|Computer Science|Machine Learning Engineer
 Career|10th|12th|PCM|BTech|Mechanical|Automobile Engineer
 Career|10th|12th|PCM|BTech|Mechanical|Manufacturing
 Career|10th|12th|PCM|BTech|Mechanical|Robotics
 Career|10th|12th|PCM|BTech|Mechanical|Thermal Engineer
+Career|10th|12th|PCM|BTech|Mechanical|Aerospace Engineer
+Career|10th|12th|PCM|BTech|Mechanical|CAD Designer
+Career|10th|12th|PCM|BTech|Mechanical|Quality Engineer
 Career|10th|12th|PCM|BTech|Civil|Construction
 Career|10th|12th|PCM|BTech|Civil|Government Jobs
 Career|10th|12th|PCM|BTech|Civil|Site Engineer
 Career|10th|12th|PCM|BTech|Civil|Structural Engineer
+Career|10th|12th|PCM|BTech|Civil|Urban Planner
+Career|10th|12th|PCM|BTech|Civil|Transportation Engineer
 Career|10th|12th|PCM|BTech|Electrical|Power Engineer
 Career|10th|12th|PCM|BTech|Electrical|Electronics
 Career|10th|12th|PCM|BTech|Electrical|Control Systems
+Career|10th|12th|PCM|BTech|Electrical|Renewable Energy Engineer
+Career|10th|12th|PCM|BTech|Electrical|Power Systems Analyst
 Career|10th|12th|PCM|BTech|Information Technology|Software Developer
 Career|10th|12th|PCM|BTech|Information Technology|Web Developer
 Career|10th|12th|PCM|BTech|Information Technology|Cloud Engineer
@@ -31,105 +42,79 @@ Career|10th|12th|PCM|BTech|Biomedical Engineering|Medical Equipment Engineer
 Career|10th|12th|PCM|BTech|Biomedical Engineering|Clinical Engineer
 Career|10th|12th|PCM|BTech|Biomedical Engineering|Biomedical Research
 Career|10th|12th|PCM|BTech|Biomedical Engineering|Healthcare Technology
-Career|10th|12th|PCM|BTech|Industrial Production|Production Engineer
-Career|10th|12th|PCM|BTech|Industrial Production|Quality Control Engineer
-Career|10th|12th|PCM|BTech|Industrial Production|Operations Manager
-Career|10th|12th|PCM|BTech|Industrial Production|Supply Chain Manager
-Career|10th|12th|PCM|BTech|Industrial Production|Manufacturing Engineer
-Career|10th|12th|PCM|BTech|Industrial Production|Plant Manager
-Career|10th|12th|PCM|BTech|Industrial Production|Process Engineer
-Career|10th|12th|PCM|BTech|Industrial Production|Industrial Engineer
-Career|10th|12th|PCM|BSc|Physics
-Career|10th|12th|PCM|BSc|Mathematics
-Career|10th|12th|PCM|BSc|Statistics
-Career|10th|12th|PCM|BSc|Computer Science
-Career|10th|12th|PCM|BSc|Chemistry
-Career|10th|12th|PCM|Defence|Army
-Career|10th|12th|PCM|Defence|Navy
-Career|10th|12th|PCM|Defence|Airforce
-Career|10th|12th|PCM|Defence|Paramilitary
-Career|10th|12th|PCM|NDA
-Career|10th|12th|PCB|MBBS|Doctor
-Career|10th|12th|PCB|MBBS|Surgeon
-Career|10th|12th|PCB|MBBS|Specialist
-Career|10th|12th|PCB|MBBS|Physician
-Career|10th|12th|PCB|BDS
-Career|10th|12th|PCB|Pharmacy|Pharmacist
-Career|10th|12th|PCB|Pharmacy|Drug Inspector
-Career|10th|12th|PCB|Nursing|Staff Nurse
-Career|10th|12th|PCB|Nursing|Hospital Admin
-Career|10th|12th|Commerce|BCom|Accountant
-Career|10th|12th|Commerce|BCom|Banking
-Career|10th|12th|Commerce|BCom|Finance
-Career|10th|12th|Commerce|BCom|Tax Consultant
-Career|10th|12th|Commerce|BBA|Management
-Career|10th|12th|Commerce|BBA|Marketing
-Career|10th|12th|Commerce|BBA|HR
-Career|10th|12th|Commerce|BBA|Entrepreneur
-Career|10th|12th|Commerce|CA
-Career|10th|12th|Commerce|CS
-Career|10th|12th|Arts|BA|UPSC
-Career|10th|12th|Arts|BA|Teaching
-Career|10th|12th|Arts|BA|Social Work
-Career|10th|12th|Arts|Design|Fashion Designer
-Career|10th|12th|Arts|Design|Interior Designer
-Career|10th|12th|Arts|Design|Graphic Designer
-Career|10th|12th|Arts|Journalism|Reporter
-Career|10th|12th|Arts|Journalism|Media
-Career|10th|12th|Arts|Journalism|Content Creator
-Career|10th|12th|Arts|Law|Lawyer
-Career|10th|12th|Arts|Law|Judge
-Career|10th|12th|Arts|Law|Legal Advisor
-Career|10th|Diploma|Engineering Diploma|Civil Diploma
-Career|10th|Diploma|Engineering Diploma|Mechanical Diploma
-Career|10th|Diploma|Engineering Diploma|Electrical Diploma
-Career|10th|Diploma|ITI|Electrician
-Career|10th|Diploma|ITI|Fitter
-Career|10th|Diploma|ITI|Welder
-Career|10th|Diploma|Polytechnic|Poly CS
-Career|10th|Diploma|Polytechnic|Poly Civil
-Career|10th|12th|PCM|BTech|Computer Science|Game Developer
-Career|10th|12th|PCM|BTech|Computer Science|Blockchain Developer
-Career|10th|12th|PCM|BTech|Computer Science|DevOps Engineer
-Career|10th|12th|PCM|BTech|Computer Science|Machine Learning Engineer
-Career|10th|12th|PCM|BTech|Mechanical|Aerospace Engineer
-Career|10th|12th|PCM|BTech|Mechanical|CAD Designer
-Career|10th|12th|PCM|BTech|Mechanical|Quality Engineer
-Career|10th|12th|PCM|BTech|Civil|Urban Planner
-Career|10th|12th|PCM|BTech|Civil|Transportation Engineer
-Career|10th|12th|PCM|BTech|Electrical|Renewable Energy Engineer
-Career|10th|12th|PCM|BTech|Electrical|Power Systems Analyst
+Career|10th|12th|PCM|BTech|IP
 Career|10th|12th|PCM|BSc|Physics|Research Scientist
 Career|10th|12th|PCM|BSc|Mathematics|Actuary
 Career|10th|12th|PCM|BSc|Statistics|Data Analyst
 Career|10th|12th|PCM|BSc|Computer Science|Software Tester
+Career|10th|12th|PCM|BSc|Chemistry
 Career|10th|12th|PCM|Defence|Army|Officer
 Career|10th|12th|PCM|Defence|Navy|Marine Engineer
 Career|10th|12th|PCM|Defence|Airforce|Pilot
+Career|10th|12th|PCM|Defence|Paramilitary
+Career|10th|12th|PCM|NDA
+Career|10th|12th|PCM|Mtech
+Career|10th|12th|PCB|MBBS|Doctor
+Career|10th|12th|PCB|MBBS|Surgeon
+Career|10th|12th|PCB|MBBS|Specialist
+Career|10th|12th|PCB|MBBS|Physician
 Career|10th|12th|PCB|MBBS|Cardiologist
 Career|10th|12th|PCB|MBBS|Neurologist
 Career|10th|12th|PCB|MBBS|Dermatologist
+Career|10th|12th|PCB|BDS
+Career|10th|12th|PCB|Pharmacy|Pharmacist
+Career|10th|12th|PCB|Pharmacy|Drug Inspector
 Career|10th|12th|PCB|Pharmacy|Clinical Research
 Career|10th|12th|PCB|Pharmacy|Medical Representative
+Career|10th|12th|PCB|Nursing|Staff Nurse
+Career|10th|12th|PCB|Nursing|Hospital Admin
 Career|10th|12th|PCB|Nursing|ICU Nurse
 Career|10th|12th|PCB|Nursing|Community Health Nurse
+Career|10th|12th|Commerce|BCom|Accountant
+Career|10th|12th|Commerce|BCom|Banking
+Career|10th|12th|Commerce|BCom|Finance
+Career|10th|12th|Commerce|BCom|Tax Consultant
 Career|10th|12th|Commerce|BCom|Auditor
 Career|10th|12th|Commerce|BCom|Investment Banker
+Career|10th|12th|Commerce|BBA|Management
+Career|10th|12th|Commerce|BBA|Marketing
+Career|10th|12th|Commerce|BBA|HR
+Career|10th|12th|Commerce|BBA|Entrepreneur
 Career|10th|12th|Commerce|BBA|Business Analyst
 Career|10th|12th|Commerce|BBA|Startup Founder
 Career|10th|12th|Commerce|CA|Chartered Accountant Practice
 Career|10th|12th|Commerce|CS|Company Secretary Practice
+Career|10th|12th|Arts|BA|UPSC
+Career|10th|12th|Arts|BA|Teaching
+Career|10th|12th|Arts|BA|Social Work
 Career|10th|12th|Arts|BA|Civil Services
 Career|10th|12th|Arts|BA|Psychologist
+Career|10th|12th|Arts|Design|Fashion Designer
+Career|10th|12th|Arts|Design|Interior Designer
+Career|10th|12th|Arts|Design|Graphic Designer
 Career|10th|12th|Arts|Design|UI UX Designer
 Career|10th|12th|Arts|Design|Animator
+Career|10th|12th|Arts|Journalism|Reporter
+Career|10th|12th|Arts|Journalism|Media
+Career|10th|12th|Arts|Journalism|Content Creator
 Career|10th|12th|Arts|Journalism|News Anchor
 Career|10th|12th|Arts|Journalism|Digital Media Manager
+Career|10th|12th|Arts|Law|Lawyer
+Career|10th|12th|Arts|Law|Judge
+Career|10th|12th|Arts|Law|Legal Advisor
 Career|10th|12th|Arts|Law|Corporate Lawyer
 Career|10th|12th|Arts|Law|Criminal Lawyer
+Career|10th|Diploma|Engineering Diploma|Civil Diploma
+Career|10th|Diploma|Engineering Diploma|Mechanical Diploma
+Career|10th|Diploma|Engineering Diploma|Electrical Diploma
 Career|10th|Diploma|Engineering Diploma|Computer Diploma
 Career|10th|Diploma|Engineering Diploma|Automobile Diploma
+Career|10th|Diploma|ITI|Electrician
+Career|10th|Diploma|ITI|Fitter
+Career|10th|Diploma|ITI|Welder
 Career|10th|Diploma|ITI|Plumber
 Career|10th|Diploma|ITI|Technician
+Career|10th|Diploma|Polytechnic|Poly CS
+Career|10th|Diploma|Polytechnic|Poly Civil
 Career|10th|Diploma|Polytechnic|Poly Mechanical
 Career|10th|Diploma|Polytechnic|Poly Electrical
