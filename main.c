@@ -6,6 +6,8 @@
 
 int main(){
     trie *users = newTrieNode();
+    insertUser(users, "admin", "1234");//default admins
+    insertUser(users, "user",  "1111");
     loadUsers(users);
     int loggedIn=0;
     int choice;
